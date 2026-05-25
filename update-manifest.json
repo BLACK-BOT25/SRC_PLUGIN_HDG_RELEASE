@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "1.5.11",
+  "version": "1.5.12",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/main/SU_HDG.rbz",
-  "notes": "Bỏ nền icon che hover native và thêm icon active nền xanh rõ."
+  "notes": "Bo góc rebuild cả mặt cạnh, cắt thật khối góc và hàn/ẩn segment cung bo."
 }
