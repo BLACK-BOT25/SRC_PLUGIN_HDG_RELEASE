@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/main/SU_HDG.rbz",
-  "notes": "Thêm chức năng Làm mịn cạnh."
+  "notes": "Sửa Làm mịn cạnh để xử lý curve nằm trên mặt."
 }
