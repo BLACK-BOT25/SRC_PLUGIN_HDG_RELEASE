@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/main/SU_HDG.rbz",
-  "notes": "Bo góc chọn đúng cặp cạnh quanh đỉnh hover và tránh lấy nhầm cạnh độ dày."
+  "notes": "Bo góc nhập Enter được, preview giống kết quả cắt và tăng độ mịn cung."
 }
