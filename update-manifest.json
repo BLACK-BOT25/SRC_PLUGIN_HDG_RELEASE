@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "1.5.13",
+  "version": "1.5.14",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Bo góc gọi trực tiếp lõi Siêu hàn cạnh để auto hàn cung bo."
+  "notes": "Bo góc ưu tiên mặt lớn của tấm hộp và xóa mặt góc cũ còn dư."
 }
