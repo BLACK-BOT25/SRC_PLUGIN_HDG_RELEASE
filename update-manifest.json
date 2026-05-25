@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/main/SU_HDG.rbz",
-  "notes": "Bo góc rebuild mặt lớn khi cắt và preview trong suốt viền cam."
+  "notes": "Sửa lỗi face đã xóa khi Bo góc và thêm trạng thái active cho icon."
 }
