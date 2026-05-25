@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "1.5.15",
+  "version": "1.5.16",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Bo góc auto hàn cung bán kính mặt trên và mặt dưới sau khi cắt hộp."
+  "notes": "Bo góc giữ bán kính theo kích thước sau scale và hàn cung không tạo sọc mặt cong."
 }
