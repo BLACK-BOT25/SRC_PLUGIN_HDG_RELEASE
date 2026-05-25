@@ -24,7 +24,7 @@ BLACK-BOT25/SRC_PLUGIN_HDG
 Use this URL in SketchUp `Extensions > SU_HDG > Update Settings`:
 
 ```text
-https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/main/update-manifest.json
+https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/update-manifest.json
 ```
 
 ## Release Update Steps

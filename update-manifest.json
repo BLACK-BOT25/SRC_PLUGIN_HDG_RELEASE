@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
   "version": "1.5.12",
-  "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/main/SU_HDG.rbz",
+  "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
   "notes": "Bo góc rebuild cả mặt cạnh, cắt thật khối góc và hàn/ẩn segment cung bo."
 }
