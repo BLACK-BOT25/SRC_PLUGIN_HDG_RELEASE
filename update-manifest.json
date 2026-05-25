@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/main/SU_HDG.rbz",
-  "notes": "Bo góc nhập Enter được, preview giống kết quả cắt và tăng độ mịn cung."
+  "notes": "Bo góc tạo mặt cutter kín để xóa góc chắc hơn."
 }
