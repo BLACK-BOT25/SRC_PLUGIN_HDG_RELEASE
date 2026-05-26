@@ -110,9 +110,9 @@ Auto update đọc manifest public ở repo release. Manifest hiện dùng dạn
 ```json
 {
   "id": "SU_HDG",
-  "version": "1.5.33",
+  "version": "1.5.34",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Bo góc đổi bán kính ngay khi gõ số, update chạy ẩn bằng manifest cố định trong source."
+  "notes": "Auto update chạy ngầm không còn hiện popup cài xong; chỉ log Ruby Console."
 }
 ```
 
