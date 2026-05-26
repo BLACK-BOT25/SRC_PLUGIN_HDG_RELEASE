@@ -110,9 +110,9 @@ Auto update đọc manifest public ở repo release. Manifest hiện dùng dạn
 ```json
 {
   "id": "SU_HDG",
-  "version": "1.5.34",
+  "version": "1.5.35",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Auto update chạy ngầm không còn hiện popup cài xong; chỉ log Ruby Console."
+  "notes": "Đổi tên Extension Manager thành HDG Tools và creator thành H.D.G (Zalo : 0968.955.492)."
 }
 ```
 
