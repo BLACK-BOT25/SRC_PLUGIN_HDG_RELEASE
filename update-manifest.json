@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Đổi Extension Manager thành HDG Tools, toolbar thành HDG Tool, creator thành 2 dòng và chuyển version sang 0.0.0.1."
+  "notes": "Giữ lại vị trí dock của toolbar HDG Tool sau khi restart SketchUp."
 }
