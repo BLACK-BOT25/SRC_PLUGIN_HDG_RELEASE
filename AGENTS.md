@@ -91,6 +91,8 @@ Nếu thấy file đang bị sửa bởi người dùng, không revert. Đọc d
 - `Mộng Ngàm` có popup cấu hình preset kiểu C/L/H/V/D, layer CNC, số lượng, kiểu khử tròn/vuông và mộng dài; mở bằng nút bánh răng trên HUD.
 - `Mộng Ngàm` đổi preset bằng Tab và cho nhập nhanh `D6`, `C50`, `L50`, `H13`, `V1` ngay khi đang chạy tool.
 - `Mộng Ngàm` khi apply phải tạo phần mộng nhô theo `H` trên tấm có mộng và vẽ đường CNC trên tấm còn lại vào layer/tag cấu hình, ví dụ `NTT_AM_NOC_Z14`.
+- `Mộng Ngàm` đường CNC phải là một `Group` riêng tên `ABF #Tbone` được gắn tag/layer cấu hình; không gắn layer lẻ lên từng edge trong tấm nhận.
+- `Mộng Ngàm` phần mộng thêm phải là dạng dải mộng theo cạnh có các đoạn mộng/khử dao, không chỉ là các hộp chữ nhật rời.
 - `Mộng Ngàm` dùng code/icon tự viết, không copy source/icon từ PTL, OneClick Cabinet, Uni Tools hay plugin ngoài.
 - Không rebuild bằng cách `add_item` lại vào toolbar cũ tên `SU_HDG`; SketchUp không có API clear/remove toolbar item, nên phải dựng toolbar runtime tên riêng khi cần rebuild.
 - Toolbar runtime được phép dùng suffix ẩn để tránh nhân item, nhưng title người dùng nhìn thấy chỉ nên là `HDG Tool`, không kèm version.

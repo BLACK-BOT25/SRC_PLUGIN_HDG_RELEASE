@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "0.0.0.8",
+  "version": "0.0.0.9",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Làm lại Mộng Ngàm theo workflow hai tấm chạm mặt, có popup cấu hình và layer CNC."
+  "notes": "Chỉnh Mộng Ngàm tạo dải mộng theo cạnh và gom đường CNC vào group ABF #Tbone đúng layer."
 }
