@@ -110,9 +110,9 @@ Auto update đọc manifest public ở repo release. Manifest hiện dùng dạn
 ```json
 {
   "id": "SU_HDG",
-  "version": "1.5.24",
+  "version": "1.5.30",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Trim chuyển sang luồng target trước, modifier sau, hỗ trợ chọn sẵn nhiều target và trim lặp theo mẫu Solid Tools."
+  "notes": "Bo góc tách riêng bản copy trước khi cắt, bỏ phím số đổi mode và nhập bán kính trực tiếp qua Measurements."
 }
 ```
 
