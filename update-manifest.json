@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "1.5.32",
+  "version": "1.5.33",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Auto update có sẵn manifest public mặc định để user mới tự check khi mở SketchUp."
+  "notes": "Bo góc đổi bán kính ngay khi gõ số, update chạy ẩn bằng manifest cố định trong source."
 }
