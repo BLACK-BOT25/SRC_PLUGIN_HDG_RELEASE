@@ -5,7 +5,7 @@ Repo public này chỉ chứa artifact phát hành cho plugin SketchUp `SU_HDG`.
 - Extension Manager name: `HDG Tools`
 - Creator hiển thị 2 dòng: `H.D.G` và `Zalo : 0968.955.492`
 - Toolbar title: `HDG Tool`
-- Version hiện tại: `0.0.0.4`
+- Version hiện tại: `0.0.0.5`
 - RBZ: `SU_HDG.rbz`
 - Manifest: `update-manifest.json`
 
@@ -14,9 +14,9 @@ Manifest public:
 ```json
 {
   "id": "SU_HDG",
-  "version": "0.0.0.4",
+  "version": "0.0.0.5",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Giữ tool Bo góc sau khi bo xong để thao tác liên tục nhiều tấm."
+  "notes": "Sửa Bo góc bị báo lỗi sau khi tách bản copy component/group."
 }
 ```
 
