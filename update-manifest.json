@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "0.0.0.10",
+  "version": "0.0.0.11",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Chỉnh hình học Mộng Ngàm theo C/L/H/V/D/S/T và gom đường CNC vào group ABF #Tbone đúng layer."
+  "notes": "Sửa lỗi đọc preset Mộng Ngàm cũ làm crash SyntaxError và đổi sang lưu cấu hình an toàn."
 }
