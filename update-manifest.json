@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "1.5.20",
+  "version": "1.5.21",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Bo góc tự hàn curve bán kính và chu vi mặt sau khi cắt để dán chỉ không vỡ path."
+  "notes": "Bo góc giữ cung bo/khoét là Arc có Radius, giảm segments và không hàn full chu vi làm mất R."
 }
