@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "0.0.0.3",
+  "version": "0.0.0.4",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Đổi các popup lỗi và status sai thao tác sang giọng vui nhẹ, dễ hiểu hơn."
+  "notes": "Giữ tool Bo góc sau khi bo xong để thao tác liên tục nhiều tấm."
 }
