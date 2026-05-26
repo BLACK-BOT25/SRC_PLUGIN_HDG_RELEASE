@@ -110,9 +110,9 @@ Auto update đọc manifest public ở repo release. Manifest hiện dùng dạn
 ```json
 {
   "id": "SU_HDG",
-  "version": "1.5.30",
+  "version": "1.5.31",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Bo góc tách riêng bản copy trước khi cắt, bỏ phím số đổi mode và nhập bán kính trực tiếp qua Measurements."
+  "notes": "Toolbar tự nạp chắc hơn khi mở SketchUp và ghi log startup trong Ruby Console."
 }
 ```
 
