@@ -88,6 +88,7 @@ Nếu thấy file đang bị sửa bởi người dùng, không revert. Đọc d
 - `Bo góc` phải tự tăng segments cao để cung sau khi cắt mịn.
 - `Mộng Ngàm` là tool hover/click riêng, dùng lõi khoét tròn của `Bo góc` để tạo mộng ngàm/xương chó theo đường kính dao tại góc đang hover.
 - `Mộng Ngàm` không mở popup nhập số; gõ số trực tiếp phải đổi đường kính dao `D` trên preview, click để khoét, và tool vẫn giữ để thao tác góc tiếp theo.
+- `Mộng Ngàm` có các preset cấu hình nhanh kiểu C/L/H/V/D, đổi preset bằng Tab, và cho nhập nhanh `D6`, `C50`, `L50`, `H13`, `V1` ngay khi đang hover.
 - `Mộng Ngàm` dùng code/icon tự viết, không copy source/icon từ PTL, OneClick Cabinet, Uni Tools hay plugin ngoài.
 - Không rebuild bằng cách `add_item` lại vào toolbar cũ tên `SU_HDG`; SketchUp không có API clear/remove toolbar item, nên phải dựng toolbar runtime tên riêng khi cần rebuild.
 - Toolbar runtime được phép dùng suffix ẩn để tránh nhân item, nhưng title người dùng nhìn thấy chỉ nên là `HDG Tool`, không kèm version.
