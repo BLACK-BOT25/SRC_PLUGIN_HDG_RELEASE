@@ -1,6 +1,6 @@
 {
   "id": "SU_HDG",
-  "version": "0.0.0.11",
+  "version": "0.0.0.36",
   "rbz_url": "https://raw.githubusercontent.com/BLACK-BOT25/SRC_PLUGIN_HDG_RELEASE/refs/heads/main/SU_HDG.rbz",
-  "notes": "Sửa lỗi đọc preset Mộng Ngàm cũ làm crash SyntaxError và đổi sang lưu cấu hình an toàn."
+  "notes": "Thêm Khôi phục tấm vào plugin chính và sửa khôi phục đúng kích thước gốc."
 }
